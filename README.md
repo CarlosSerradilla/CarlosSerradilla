@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carlos Serradilla Svarlyte</h1>
+# Carlos Serradilla Svarlyte
 <h3 align="center">Estudiante de DAM del IES Juan de la Cierva</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosserradilla&label=Profile%20views&color=0e75b6&style=flat" alt="carlosserradilla" /> </p>
